@@ -1,0 +1,2 @@
+A simple app for a svg to png conversion using wasm, is not complete and will generate some window page crash without proper load time.
+I'll update it in the future, and style it better, but for now will be just a backup. 
